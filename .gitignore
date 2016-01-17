@@ -48,3 +48,6 @@ Temporary Items
 
 # WebStorm files
 /.idea
+
+# node.js files
+/node-modules
